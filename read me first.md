@@ -132,7 +132,7 @@ Every lead must belong to one of these 5 supported service categories:
    - Creates `companydetails.txt` containing full research data.
    - Generates the Vercel link:
      ```text
-     https://master-five-theta.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html
+     https://coldemail-ruddy.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html
      ```
 
 ---
@@ -172,7 +172,7 @@ Every lead must belong to one of these 5 supported service categories:
      - Recipient Name & Position.
      - Unique, compelling Subject Line.
      - Conversion-focused body copy referencing their actual business services/history.
-     - Active Vercel demo link (`https://master-five-theta.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html`).
+     - Active Vercel demo link (`https://coldemail-ruddy.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html`).
      - Professional signature with CEO contact details.
    - **For Every Social Profile (Facebook, Instagram, LinkedIn, etc.)**: Creates a concise, natural, platform-tailored DM with direct profile URL.
 
@@ -204,7 +204,7 @@ git push origin main
 1. **Test the Live Demo Website**:
    Open the generated Vercel URL in your browser:
    ```text
-   https://master-five-theta.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html
+   https://coldemail-ruddy.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html
    ```
    - Verify that the company name, phone, email, and address are accurate.
    - Verify that images match the niche and all 17 images are unique.
@@ -229,7 +229,7 @@ git push origin main
 | **3. Email Requirement** | If no publicly verifiable email address is found during deep research, **SKIP the company immediately**. Do not add to Excel, do not create a folder. |
 | **4. 17-Image Unique Use Rule** | Only use the 17 category images copied from `data/[niche]/`. Each image can only be used **ONCE** on the page. No reuse, no AI generation, no external downloads. |
 | **5. Zero Layout / CSS Tampering** | Do not change classes, CSS, layout grid, typography, colors, animations, or counters. Only replace text strings and image paths. |
-| **6. Exact Vercel URL Format** | Must strictly follow: `https://master-five-theta.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html`. |
+| **6. Exact Vercel URL Format** | Must strictly follow: `https://coldemail-ruddy.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html`. |
 | **7. Research File Naming** | The research file in the company folder must always be named exactly `companydetails.txt`. |
 
 ---

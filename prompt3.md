@@ -199,11 +199,11 @@ Use the exact Vercel URL rule established by Prompt 1.
 
 The base domain is:
 
-https://master-five-theta.vercel.app/
+https://coldemail-ruddy.vercel.app/
 
 The company demo URL is:
 
-https://master-five-theta.vercel.app/coldemail/[companynamefolder]/index.html
+https://coldemail-ruddy.vercel.app/coldemail/[companynamefolder]/index.html
 
 Use the EXACT company folder name that was created by Prompt 1.
 
@@ -215,7 +215,7 @@ ParsonPlumbingandDrains
 
 then the Vercel URL must be:
 
-https://master-five-theta.vercel.app/coldemail/ParsonPlumbingandDrains/index.html
+https://coldemail-ruddy.vercel.app/coldemail/ParsonPlumbingandDrains/index.html
 
 DO NOT invent a different Vercel URL.
 
@@ -602,7 +602,7 @@ Do NOT accidentally use:
 
 another company's URL
 another company's folder
-masterplumber.vercel.app
+coldemail-ruddy.vercel.app/
 an old demo URL
 
 The URL MUST correspond to the current company folder.

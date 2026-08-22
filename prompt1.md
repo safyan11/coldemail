@@ -462,11 +462,11 @@ Do not change the niche without evidence.
 
 The master Vercel base URL is:
 
-https://master-five-theta.vercel.app/
+https://coldemail-ruddy.vercel.app/
 
 The cold email Vercel URL MUST be:
 
-https://master-five-theta.vercel.app/coldemail/[companynamefolder]/index.html
+https://coldemail-ruddy.vercel.app/coldemail/[companynamefolder]/index.html
 
 The company folder name is based on the company/business name.
 
@@ -484,7 +484,7 @@ ParsonPlumbingandDrains
 
 Therefore the Vercel URL becomes:
 
-https://master-five-theta.vercel.app/coldemail/ParsonPlumbingandDrains/index.html
+https://coldemail-ruddy.vercel.app/coldemail/ParsonPlumbingandDrains/index.html
 
 Another example:
 
@@ -496,13 +496,13 @@ MechanicalPlumbingSystems
 
 Therefore:
 
-https://master-five-theta.vercel.app/coldemail/MechanicalPlumbingSystems/index.html
+https://coldemail-ruddy.vercel.app/coldemail/MechanicalPlumbingSystems/index.html
 
 Do not use %20 for spaces in this new Vercel structure because spaces are removed from the company folder name.
 
 The URL must always follow:
 
-https://master-five-theta.vercel.app/coldemail/[NO-SPACES-COMPANY-NAME]/index.html
+https://coldemail-ruddy.vercel.app/coldemail/[NO-SPACES-COMPANY-NAME]/index.html
 
 The Vercel URL must be placed in:
 
@@ -1067,7 +1067,7 @@ Company Details File:
 coldemail/[CompanyNameWithoutSpaces]/companydetails.txt
 
 Vercel URL:
-https://master-five-theta.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html
+https://coldemail-ruddy.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html
 
 Social Profiles Found:
 Facebook: [URL or NA]
@@ -1082,7 +1082,7 @@ When reporting the row to the user, provide ONE TAB-SEPARATED ROW matching the e
 
 Example:
 
-Plumbing	Columbus, Ohio	https://facebook.com/example	https://instagram.com/example	https://linkedin.com/example	https://example.com	Example Plumbing	John Smith	614-000-0000	info@example.com			https://master-five-theta.vercel.app/coldemail/ExamplePlumbing/index.html	2026-08-19	Google Maps					New		Services: ...
+Plumbing	Columbus, Ohio	https://facebook.com/example	https://instagram.com/example	https://linkedin.com/example	https://example.com	Example Plumbing	John Smith	614-000-0000	info@example.com			https://coldemail-ruddy.vercel.app/coldemail/ExamplePlumbing/index.html	2026-08-19	Google Maps					New		Services: ...
 
 Do not create a different column order.
 
@@ -1340,7 +1340,7 @@ If not duplicate:
 STEP 16
 Generate:
 
-https://master-five-theta.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html
+https://coldemail-ruddy.vercel.app/coldemail/[CompanyNameWithoutSpaces]/index.html
 
 STEP 17
 Copy mastertemplate.
