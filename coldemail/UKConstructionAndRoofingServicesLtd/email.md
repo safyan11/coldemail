@@ -15,18 +15,17 @@ Subject:
 A quick website idea for UK Construction & Roofing Services Ltd
 
 Body:
-
 Hi John,
 
 I came across UK Construction & Roofing Services Ltd and put together a quick preview of what your website could look like:
 
-https://master-five-theta.vercel.app/coldemail/UKConstructionAndRoofingServicesLtd/index.html
+https://coldemail-ruddy.vercel.app/coldemail/UKConstructionAndRoofingServicesLtd/index.html
 
-I focused the demo on making it easier for visitors to take action, with a cleaner UI, stronger calls-to-action, and mobile features like a sticky call bar and WhatsApp/text contact option. Given the wide range of services you offer in Bedworth—from roof installations to home extensions—I wanted to ensure your portfolio and emergency services are highly visible.
+I focused the demo on making it easier for visitors in Bedworth and Warwickshire to take action, with a cleaner UI, stronger calls-to-action, and mobile features like a sticky call bar and WhatsApp/text contact option. 
 
-I also incorporated conversion-focused elements to help reduce hesitation and turn more website visitors into calls and quote requests, while making the site feel more engaging and easier to navigate.
+I also incorporated conversion-focused elements around your roofing installations and building renovations to help reduce hesitation and turn more website visitors into calls and quote requests, while making the site feel more engaging and easier to navigate.
 
-No obligation — just wanted to show you what's possible for the business. Let me know what you think.
+No obligation — just wanted to show you what's possible. Let me know what you think.
 
 Abdul Rehman (CEO)
 
@@ -38,30 +37,29 @@ RISS Remote IT Services and Solution
 ## Email 2
 
 Name:
-John Dewis
+UK Construction & Roofing Services Ltd Team
 
 Email:
 thebuildingandlandscapingcoltd@outlook.com
 
 Position:
-Owner / Director
+Company Inbox
 
 Subject:
-A website preview for your roofing and construction business
+A website preview for UK Construction & Roofing Services Ltd
 
 Body:
+Hi UK Construction & Roofing Services Ltd Team,
 
-Hi John,
+I came across your roofing and construction business and put together a quick preview of what your website could look like:
 
-I recently came across your work in Bedworth under The Building & Landscaping Company Ltd and UK Construction & Roofing Services Ltd, and I put together a quick preview of what your business website could look like:
+https://coldemail-ruddy.vercel.app/coldemail/UKConstructionAndRoofingServicesLtd/index.html
 
-https://master-five-theta.vercel.app/coldemail/UKConstructionAndRoofingServicesLtd/index.html
+I focused the demo on making it easier for potential clients to take action, with a cleaner UI, stronger calls-to-action, and mobile features like a sticky call bar and WhatsApp/text contact option.
 
-For this demo, I emphasized making it easier for potential clients to take action. It features a cleaner UI, stronger calls-to-action, and mobile-friendly elements like a sticky call bar and a direct WhatsApp/text option.
+I also incorporated conversion-focused elements to highlight your comprehensive home extensions and property maintenance services, aiming to help reduce hesitation and turn more website visitors into calls and quote requests, while making the site feel more engaging and easier to navigate.
 
-I also added conversion-focused elements designed to turn more visitors into actual phone calls and quote requests for your roofing, renovations, and new builds, while making the site easy to navigate. 
-
-There's absolutely no obligation — I just wanted to show you what's possible to help capture more local leads. Let me know your thoughts.
+No obligation — just wanted to show you what's possible. Let me know what you think.
 
 Abdul Rehman (CEO)
 
@@ -85,5 +83,4 @@ Link:
 https://www.facebook.com/p/UK-Construction-Roofing-Services-LTD-100092285191834/
 
 Message:
-
-Hi John and the team, I came across UK Construction & Roofing Services LTD and put together a quick website preview for the company. I focused it on stronger calls to action, mobile contact options, and making it easier for local visitors to request service or estimates for your roofing and building projects. No obligation at all — I just wanted to show you what I came up with. Here is the link: https://master-five-theta.vercel.app/coldemail/UKConstructionAndRoofingServicesLtd/index.html Let me know what you think!
+Hi John, I came across UK Construction & Roofing Services Ltd and put together a quick website preview for the company. I focused it on stronger calls to action, mobile contact options, and making it easier for visitors to request a roofing or construction quote. No obligation at all — I just wanted to show you what I came up with: https://coldemail-ruddy.vercel.app/coldemail/UKConstructionAndRoofingServicesLtd/index.html
