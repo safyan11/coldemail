@@ -1,0 +1,95 @@
+==================================================
+COMPANY INFORMATION
+==================================================
+
+Business Name: Fox Roofing and Construction Limited
+Legal Business Name: Fox Roofing and Construction Limited
+DBA: NA
+City: Loughrea
+State: Co. Galway
+Address: Loughrea, Co. Galway, Ireland
+Phone: +353 83 067 4929
+Secondary Phone: NA
+Website: NA
+Verified Email: johnfoxroofing@gmail.com
+Additional Emails: NA
+Business Category: Roofing contractor
+Founded: May 2026
+Years in Business: <1
+Owner: John Fox
+President: NA
+CEO: NA
+Manager: NA
+General Manager: NA
+Office Manager: NA
+Employees: NA
+Services: Roofing Repairs, Specialist Installations (VELUX skylights, roof windows), Maintenance (Chimney repairs, leak detection, dry verge and ridge systems)
+Service Areas: Loughrea and surrounding areas of Co. Galway
+Business Hours: NA
+Emergency Services: NA
+License Information: NA
+BBB Information: NA
+Chamber Information: NA
+Certifications: NA
+Ratings: NA
+Reviews: NA
+Company History: Formally established in May 2026, Fox Roofing and Construction Limited is a local, family-run business based in Loughrea, Co. Galway, Ireland.
+Other Important Information: NA
+
+==================================================
+OWNER / MANAGEMENT RESEARCH
+==================================================
+
+Name: John Fox
+Position: Owner
+LinkedIn: NA
+Facebook: NA
+Instagram: NA
+X/Twitter: NA
+Other Platforms: NA
+Verification Evidence: Associated email johnfoxroofing@gmail.com
+Additional Notes: NA
+
+==================================================
+EMPLOYEE RESEARCH
+==================================================
+
+NA
+
+==================================================
+COMPANY SOCIAL / PROFESSIONAL PLATFORMS
+==================================================
+
+Platform: Facebook
+Company/Profile Name: Fox Roofing and Construction Limited
+URL: https://www.facebook.com/FoxRoofingAndConstructionLimited
+Verification: Name matches business exactly
+Notes: Uses Facebook as primary online presence for sharing updates on recent projects and contact details.
+
+==================================================
+EMAIL RESEARCH
+==================================================
+
+Verified Email: johnfoxroofing@gmail.com
+Source: Facebook page contact info
+Additional Verified Email: NA
+Source: NA
+Email Verification Notes: Found on their official Facebook page
+
+==================================================
+SOURCE LIST
+==================================================
+
+Source: Facebook / Vertex AI Search
+URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/...
+Information Found: Business description, phone, email, location, services
+
+Source: solocheck.ie / Vertex AI Search
+URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/...
+Information Found: Company incorporation date (May 2026) and location
+
+==================================================
+FULL PLAIN-TEXT RESEARCH
+==================================================
+
+Fox Roofing and Construction Limited is a local, family-run business based in Loughrea, Co. Galway, Ireland, formally established in May 2026. The company specializes in the installation, repair, and maintenance of residential and commercial roofing systems. Their services include roofing repairs (fixing damaged or missing slates), specialist installations (VELUX skylights and roof windows), and maintenance (chimney repairs, leak detection, and installation of dry verge and ridge systems). They serve Loughrea and the surrounding areas of Co. Galway. They appear to use Facebook as their primary online presence to share recent projects. The business owner is likely John Fox based on the contact email, johnfoxroofing@gmail.com. The primary contact phone number is +353 83 067 4929.
